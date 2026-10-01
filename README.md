@@ -1,0 +1,2 @@
+# mkdfcc
+Daily digest notes
